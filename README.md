@@ -35,9 +35,7 @@ LIVE DEMO - [click here](https://rakshitgupta9.github.io/CSS-Cursor-Styles/)
 2. Open `index.html` in any modern web browser.
 3. Hover your cursor over each box to see the effect.
 
-## 📸 Screenshot
 
-![Screenshot](https://via.placeholder.com/1000x600?text=CSS+Cursor+Styles+Demo)
 
 ## 🙌 Author
 
